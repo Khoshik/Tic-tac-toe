@@ -1,7 +1,7 @@
 # Tic-tac-toe
 A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
 
-Features:
+# Features:
 
    User-friendly UI with responsive design.
    
@@ -9,7 +9,7 @@ Features:
    
    Restart button for instant replay.
    
-Technologies Used:
+# Technologies Used:
 
    HTML – Game structure.
    
